@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	printf("- result is %i\n",num1-num2);
 	printf("* result is %i\n",num1*num2);
 	printf("/ result is %i\n",num1/num2);
-	printf("% result is %i",num1%num2);
+	printf("%% result is %i",num1%num2);
 	
 	return 0;
 }
